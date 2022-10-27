@@ -15,4 +15,4 @@ user:admin@admin.se
 password:admin123
 
 ## Heroku link
-http://imdbu05clone.herokuapp.com
+https://imdbu05clone.herokuapp.com
